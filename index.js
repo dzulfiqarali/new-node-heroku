@@ -17,11 +17,11 @@ if (process.env.NODE_ENV === "production") {
     console.log("apakabar")
 }else{
     db = new Client({
-        database: "learning",
-        host: "192.168.205.10",
-        user: "admin",
-        password: "P@ssw0rd",
-        port : 5432
+        database: "hehe",
+        host: "hehe",
+        user: "hehe",
+        password: "hehe",
+        port : 123123
     })
 }
 
